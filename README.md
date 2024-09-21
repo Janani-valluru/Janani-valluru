@@ -1,11 +1,7 @@
-### Hi there 👋 it's been a while
+Hi there 👋
+I'm Janani V A, an Information Science graduate currently pursuing a PG-Diploma in C-DAC.
 
-
-I'm Janani V A ,pursuing 4th year engineering. 
-
-- 🔭 I’m currently working on Full Stack Applications
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 🤔 I’m looking for help with Full Stack Projects
-- 💬 Ask me about Java , Html, CSS ,Javascript 
-- 😄 I'm a history lover, painting , music lover and i write journals.
-
+🔭 Currently working on Full Stack Applications
+🌱 Learning Data Structures and Algorithms
+🤔 Seeking help with Full Stack Projects
+💬 Ask me anything about Java and ReactJS
